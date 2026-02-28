@@ -7,3 +7,5 @@ Kaggle Link Dataset: https://www.kaggle.com/datasets/wardabilal/customer-shoppin
 Check Point 1: https://github.com/yahyajailani/AVD_CHECKPOINT_SEMESTER2/blob/e06af5651d32dce5b93c51f9bda4dde2f97b0cf6/CheckPoint1/Copy_of_Check_Point_1p.ipynb
 
 Check Point 2: https://github.com/yahyajailani/AVD_CHECKPOINT_SEMESTER2/blob/5ea47d5a323f3b86cd6db17629d62364f7397a51/CheckPoint2/Check_Point_2_C_YahyaJailani_2509116085.ipynb
+
+Check Point 3: https://github.com/yahyajailani/AVD_CHECKPOINT_SEMESTER2/blob/5b862a6b3bde00b3bc3941d894e6fd8b2f302b12/CheckPoint3/Check_Point_3_C_YahyaJailani_2509116085.ipynb
